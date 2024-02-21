@@ -1,0 +1,4 @@
+baseURL = 'https://coffeedevelopers.github.io'
+languageCode = 'en-us'
+title = 'Coffee Lovers For Developers'
+theme = 'newsroom'
